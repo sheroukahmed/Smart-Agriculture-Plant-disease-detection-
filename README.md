@@ -1,4 +1,4 @@
-# apptrial
+# Plant Disease Application 
 
 A new Flutter project.
 
